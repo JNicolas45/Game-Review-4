@@ -5,7 +5,7 @@ Released on Novmenber 16th, 2018, Developed and published by Fractal Softworks, 
 
 ### Game Title
 
-Starsector (Was previously called "Starfarer") can be found on the offical Starsector's website and can also be run on MAC or Linux
+Starsector (Was previously called "Starfarer") can be found on the offical Starsector's website for just 15 dollars and can also be run on MAC and Linux
 
 ### Rating
 
